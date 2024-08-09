@@ -1,0 +1,15 @@
+{
+  "name": "tvmovie",
+  "version": "1.0.0",
+  "description": "![Screenshot](https://github.com/halilozel1903/AndroidTVMovieParadise/blob/master/screenshots/androidtv.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sazwarriyadh"
+  },
+  "author": "azwar riyadh",
+  "license": "ISC"
+}
